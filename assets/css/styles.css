@@ -38,6 +38,7 @@ h2{
 img{
   border-radius:50%;
   border: 2px solid #fff;
+  position:relative;
 }
 
 .about{
@@ -92,4 +93,8 @@ a {
 .column{
   float:left;
   width: 300px;
+  
+  text-align: center;
+  display: flex;
+  flex-direction: column;
 }
