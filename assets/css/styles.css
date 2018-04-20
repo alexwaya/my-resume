@@ -63,6 +63,11 @@ img{
    padding-left:40px;
 }
 
+.projects{
+   height:100vh;
+   padding-left:40px;
+}
+
 .hobbies{
    height:100vh;
    padding-left:40px;
@@ -81,4 +86,9 @@ img{
 a {
   text-decoration: none;
   padding:5px;
+}
+
+
+.column{
+  float:left;
 }
