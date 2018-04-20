@@ -1,0 +1,12 @@
+.left-sidebar{
+  float:left;
+  width:25%;
+  background-color:lime;
+  }
+
+.right-sidebar{
+  float:right;
+  width:75%;
+  background-color:red;
+}
+
