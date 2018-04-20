@@ -91,4 +91,5 @@ a {
 
 .column{
   float:left;
+  width: 300px;
 }
