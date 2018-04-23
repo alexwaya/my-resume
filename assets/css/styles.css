@@ -10,21 +10,16 @@
   display: flex;
   flex-direction: column;
   padding-top:8%;
-  
-
   }
 
 .right-sidebar{
   float:right;
   width:75%;
-  
-  
 }
 
 h1{
   font-size:4rem;
   padding-top:60px;
-
 }
 
 
