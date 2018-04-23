@@ -9,7 +9,7 @@
   left: 0;
   display: flex;
   flex-direction: column;
-  padding-top:8%;
+  padding-top:6%;
   }
 
 .right-sidebar{
@@ -28,9 +28,9 @@ h1{
 }
 
 img{
-  border-radius:50%;
   border: 2px solid #fff;
   position:relative;
+  border-radius:50%;
 }
 
 .about{

@@ -1,0 +1,133 @@
+.left-sidebar{
+  float:left;
+  width:25%;
+  height:100vh;
+  background-color:#bd5d38;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  padding-top:8%;
+  }
+
+.right-sidebar{
+  float:right;
+  width:75%;
+}
+
+h1{
+  font-size:4rem;
+  padding-top:60px;
+}
+
+
+.nav-bar ul{
+  list-style:none;
+}
+
+img{
+  border-radius:50%;
+  border: 2px solid #fff;
+  position:relative;
+}
+
+.about{
+   height:100vh;
+   padding:35px;
+   margin:auto;
+   padding-left:40px;
+}
+
+.education{
+   height:100vh;
+   padding-left:40px;
+   padding-left:40px;
+}
+
+.job-experience{
+   height:100vh;
+   padding-left:40px;
+}
+
+.interests{
+   height:100vh;
+   padding-left:40px;
+}
+
+#projects{
+   height:100vh;
+   padding-left:40px;
+}
+
+.hobbies{
+   height:100vh;
+   padding-left:40px;
+}
+
+.skills{
+   height:100vh;
+   padding-left:40px;
+}
+
+.about{
+   height:100vh;
+   padding-left:40px;
+}
+
+a {
+  text-decoration: none;
+  padding:5px;
+}
+
+
+.column{
+  float:left;
+  width: 250px;
+}
+
+img.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p.center{
+  text-align:center;
+}
+
+
+.now{
+  color:#bd5d38; 
+  }
+  
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 25%;
+    background-color: #bd5d38;
+    color: white;
+    text-align: center;
+    padding-bottom:6px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
