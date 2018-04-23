@@ -103,14 +103,15 @@ p.center{
   }
   
 .footer{
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 25%;
-    background-color: #bd5d38;
-    color: white;
-    text-align: center;
-    padding-bottom:6px;}
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 25%;
+  background-color: #bd5d38;
+  color: white;
+  text-align: center;
+  padding-bottom:6px;
+    }
 
 
 
